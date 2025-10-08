@@ -1,11 +1,6 @@
 🚗 Dashboard de Vendas de Veículos – Projeto de Deploy com Streamlit e Render
 
-
-
-
-
-
-
+![Preview do Dashboard](./preview.png)
 
 🔗 Aplicativo Web Online: https://pro-sprint5.onrender.com
 
