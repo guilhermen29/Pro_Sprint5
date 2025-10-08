@@ -1,0 +1,11 @@
+pandas
+plotly_express
+streamlit
+
+echo pandas >> requirements.txt
+echo plotly_express >> requirements.txt
+echo streamlit >> requirements.txt
+
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin main
