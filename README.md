@@ -23,11 +23,11 @@ Uso de bibliotecas populares para visualização e manipulação de dados.
 
 🧩 Funcionalidades Principais
 
-✅ Interface interativa desenvolvida com Streamlit
-✅ Visualizações com Plotly Express
-✅ Leitura e exibição de dados em tempo real via Pandas
-✅ Geração de histograma e gráfico de dispersão com um clique
-✅ Layout leve e responsivo, acessível via web
+    ✅ Interface interativa desenvolvida com Streamlit
+    ✅ Visualizações com Plotly Express
+    ✅ Leitura e exibição de dados em tempo real via Pandas
+    ✅ Geração de histograma e gráfico de dispersão com um clique
+    ✅ Layout leve e responsivo, acessível via web
 
 📊 Conjunto de Dados
 
@@ -46,15 +46,15 @@ Estado do veículo (condition)
 Arquivo principal:
 vehicles_us.csv
 
-⚙️ Estrutura do Projeto
-.
-├── README.md
-├── app.py
-├── vehicles_us.csv
-├── requirements.txt
-├── notebooks
-│   └── EDA.ipynb
-└── .streamlit
+    ⚙️ Estrutura do Projeto
+
+    ├── README.md
+    ├── app.py
+    ├── vehicles_us.csv
+    ├── requirements.txt
+    ├── notebooks
+    │   └── EDA.ipynb
+    └── .streamlit
     └── config.toml
 
 🔍 Arquivos principais:
