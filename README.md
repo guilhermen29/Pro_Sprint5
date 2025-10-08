@@ -52,7 +52,7 @@ Arquivo principal:
 vehicles_us.csv
 
 ⚙️ Estrutura do Projeto
-.
+
 ├── README.md
 ├── app.py
 ├── vehicles_us.csv
